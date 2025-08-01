@@ -1,0 +1,11 @@
+# === PUC FILES ===
+files/
+
+# === NOTEBOOKS ===
+**/.ipynb_checkpoints
+
+# === PYTHON ===
+__pycache__/
+
+# === VENV ===
+.venv/
